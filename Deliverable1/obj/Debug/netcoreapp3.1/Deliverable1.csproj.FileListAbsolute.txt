@@ -1,0 +1,13 @@
+/Users/Burch/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.csproj.AssemblyReference.cache
+/Users/Burch/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Burch/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.AssemblyInfoInputs.cache
+/Users/Burch/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.AssemblyInfo.cs
+/Users/Burch/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.csproj.CoreCompileInputs.cache
+/Users/Burch/Projects/Deliverable1/Deliverable1/bin/Debug/netcoreapp3.1/Deliverable1.deps.json
+/Users/Burch/Projects/Deliverable1/Deliverable1/bin/Debug/netcoreapp3.1/Deliverable1.runtimeconfig.json
+/Users/Burch/Projects/Deliverable1/Deliverable1/bin/Debug/netcoreapp3.1/Deliverable1.runtimeconfig.dev.json
+/Users/Burch/Projects/Deliverable1/Deliverable1/bin/Debug/netcoreapp3.1/Deliverable1.dll
+/Users/Burch/Projects/Deliverable1/Deliverable1/bin/Debug/netcoreapp3.1/Deliverable1.pdb
+/Users/Burch/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.dll
+/Users/Burch/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.pdb
+/Users/Burch/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.genruntimeconfig.cache
